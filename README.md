@@ -55,7 +55,7 @@ It uses:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.jpeg)
+![Dashboard Screenshot](dashboard_screenshot.jpeg.jpeg)
 
 ---
 
